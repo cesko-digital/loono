@@ -1,3 +1,7 @@
+# The project is as of 2022 archived
+# It is developed now by Loono (https://github.com/Loono-cz/loono)
+
+============================
 # loono
 
 We show prevention matters.
